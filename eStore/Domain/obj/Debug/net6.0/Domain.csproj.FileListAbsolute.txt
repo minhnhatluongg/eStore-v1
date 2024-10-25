@@ -1,0 +1,14 @@
+D:\Project-CV\eStore\Domain\bin\Debug\net6.0\Domain.deps.json
+D:\Project-CV\eStore\Domain\bin\Debug\net6.0\Domain.dll
+D:\Project-CV\eStore\Domain\bin\Debug\net6.0\Domain.pdb
+D:\Project-CV\eStore\Domain\obj\Debug\net6.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Project-CV\eStore\Domain\obj\Debug\net6.0\Domain.AssemblyInfoInputs.cache
+D:\Project-CV\eStore\Domain\obj\Debug\net6.0\Domain.AssemblyInfo.cs
+D:\Project-CV\eStore\Domain\obj\Debug\net6.0\Domain.csproj.CoreCompileInputs.cache
+D:\Project-CV\eStore\Domain\obj\Debug\net6.0\Domain.dll
+D:\Project-CV\eStore\Domain\obj\Debug\net6.0\refint\Domain.dll
+D:\Project-CV\eStore\Domain\obj\Debug\net6.0\Domain.pdb
+D:\Project-CV\eStore\Domain\obj\Debug\net6.0\ref\Domain.dll
+D:\Project-CV\eStore\Domain\bin\Debug\net6.0\Domain.runtimeconfig.json
+D:\Project-CV\eStore\Domain\obj\Debug\net6.0\Domain.csproj.AssemblyReference.cache
+D:\Project-CV\eStore\Domain\obj\Debug\net6.0\Domain.genruntimeconfig.cache
